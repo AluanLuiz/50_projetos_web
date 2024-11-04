@@ -1,0 +1,84 @@
+* {
+    margin: 0.1rem;
+    padding: 0.5rem;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;    
+}
+
+body {
+    background-color: rgb(253, 211, 149);
+    text-align: center;
+    align-items: center;
+}
+
+h1{
+    color:black;
+    font-size: 2.8rem;
+    letter-spacing: 0.2rem;
+}
+
+h2{
+    color:black;
+    font-size: 1.4rem;    
+}
+
+p {
+    font-size:1.2rem;
+}
+
+.btn1 {
+    height: 3rem; 
+    width: 12rem ;
+    font-size: 1.4rem;
+    font-weight:bold ;
+    cursor: pointer;
+}
+
+.btn_img_1 {    
+    cursor: pointer;
+    border: solid rgb(0, 0, 0);
+    font-size: 1.3rem;
+    color: rgb(0, 0, 0);
+    padding-left: 5px;
+    padding-right: 15px;
+    width: 13rem;
+    height: 2rem;
+    border-radius: 5px;
+    background: rgb(247, 212, 105);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+.icon_btn{
+    height: 3rem;
+    width: 3rem;
+}
+
+input{
+    height: 1.6rem;
+    width: 15rem;
+    font-size: 1.2rem;
+    border: 0.1rem;
+    border-style: double;
+}
+
+label {
+    font-size:1.2rem;
+    margin: 0.1rem;
+}
+
+.radioInput{
+    height: 1.2rem;
+    width: 1.5rem;
+    align-items: center;
+}
+
+.numInput {
+    height: 1.6rem;
+    width: 5rem;
+    font-size: 1.2rem;
+    border: 0.1rem;
+    border-style: double;
+}
