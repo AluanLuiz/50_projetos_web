@@ -29,7 +29,8 @@ p {
 }
 
 a {
-    text-decoration: none !important; font-style: normal; 
+    text-decoration: none !important; 
+    font-style: normal; 
     color: black;
     
 }

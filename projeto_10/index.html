@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document 10</title>
+</head>
+<body>
+    <h1>Projeto 10</h1>
+    <br>
+    <h2>Posso votar?</h2><br>
+
+    <div class="div_1">
+        <p>Qual a sua Idade?</p>
+        <input type="number" name="age" id="age_input" class="numInput" min="0" max="110">
+        <p>Já possui Titulo de Eleitor?</p>
+        <label for="YesRadio">Sim</label>
+        <input type="radio" name="Condition" id="YesRadio" class="radioInput" value="Yes">
+        
+        <label for="NoRadio">Não</label>
+        <input type="radio" name="Condition" id="NoRadio" class="radioInput" value="No">
+        <br><br>
+        <button class="btn2" style="width: 5rem;" onclick="validationVote()">Ok</button>
+        <br>
+        <p id="resposta"></p>
+    </div>
+    
+    <script src="main.js"></script>
+</body>
+</html>

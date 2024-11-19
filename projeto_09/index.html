@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document 09</title>
+</head>
+<body>
+    <h1>Projeto 09</h1>
+    <br>
+    <h2>Calculadora de Porcentagem</h2><br>
+
+    <div class="div_1">
+        <label for="porcent">Número para %</label>
+        <input type="radio" name="format_calc" class="radioInput" onchange="checkRaido()" id="porcent">
+        <label for="valor">% para Número</label>
+        <input type="radio" name="format_calc" class="radioInput" onchange="checkRaido()" id="valor">
+        <br><br>
+        <div id="inputArea"></div><br>
+        <button class="btn2" style=" width:12rem;" onclick="CalcPorcents()">Calcular</button>
+        <p id="resultado"></p>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>

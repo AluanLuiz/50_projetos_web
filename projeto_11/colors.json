@@ -1,0 +1,3949 @@
+{
+    "colors":
+    [
+        {
+            "color_name": "Absolute Zero",
+            "color_code": "#0048ba"
+        },
+        {
+            "color_name": "Acid Green",
+            "color_code": "#b0bf1a"
+        },
+        {
+            "color_name": "AliceBlue",
+            "color_code": "#f0f8ff"
+        },
+        {
+            "color_name": "Alizarin crimson",
+            "color_code": "#e32636"
+        },
+        {
+            "color_name": "Amaranth",
+            "color_code": "#e52b50"
+        },
+        {
+            "color_name": "Amber",
+            "color_code": "#ffbf00"
+        },
+        {
+            "color_name": "Amethyst",
+            "color_code": "#9966cc"
+        },
+        {
+            "color_name": "AntiqueWhite",
+            "color_code": "#faebd7"
+        },
+        {
+            "color_name": "AntiqueWhite1",
+            "color_code": "#ffefdb"
+        },
+        {
+            "color_name": "AntiqueWhite2",
+            "color_code": "#eedfcc"
+        },
+        {
+            "color_name": "AntiqueWhite3",
+            "color_code": "#cdc0b0"
+        },
+        {
+            "color_name": "AntiqueWhite4",
+            "color_code": "#8b8378"
+        },
+        {
+            "color_name": "Apricot",
+            "color_code": "#fbceb1"
+        },
+        {
+            "color_name": "Aqua",
+            "color_code": "#00ffff"
+        },
+        {
+            "color_name": "Aquamarine1",
+            "color_code": "#7fffd4"
+        },
+        {
+            "color_name": "Aquamarine2",
+            "color_code": "#76eec6"
+        },
+        {
+            "color_name": "Aquamarine4",
+            "color_code": "#458b74"
+        },
+        {
+            "color_name": "Army Green",
+            "color_code": "#4b5320"
+        },
+        {
+            "color_name": "Arylide Yellow",
+            "color_code": "#e9d66b"
+        },
+        {
+            "color_name": "Ash Grey",
+            "color_code": "#b2beb5"
+        },
+        {
+            "color_name": "Asparagus",
+            "color_code": "#87a96b"
+        },
+        {
+            "color_name": "Aureolin",
+            "color_code": "#fdee00"
+        },
+        {
+            "color_name": "Azure1",
+            "color_code": "#f0ffff"
+        },
+        {
+            "color_name": "Azure2",
+            "color_code": "#e0eeee"
+        },
+        {
+            "color_name": "Azure3",
+            "color_code": "#c1cdcd"
+        },
+        {
+            "color_name": "Azure4",
+            "color_code": "#838b8b"
+        },
+        {
+            "color_name": "Baby Blue",
+            "color_code": "#89cff0"
+        },
+        {
+            "color_name": "Baby Pink",
+            "color_code": "#f4c2c2"
+        },
+        {
+            "color_name": "Baker-Miller Pink",
+            "color_code": "#ff91af"
+        },
+        {
+            "color_name": "Banana Mania",
+            "color_code": "#fae7b5"
+        },
+        {
+            "color_name": "Banana Yellow",
+            "color_code": "#ffe135"
+        },
+        {
+            "color_name": "Barn Red",
+            "color_code": "#7c0a02"
+        },
+        {
+            "color_name": "Battleship Gray",
+            "color_code": "#848482"
+        },
+        {
+            "color_name": "Beaver",
+            "color_code": "#9f8170"
+        },
+        {
+            "color_name": "Beige",
+            "color_code": "#f5f5dc"
+        },
+        {
+            "color_name": "Bisque1",
+            "color_code": "#ffe4c4"
+        },
+        {
+            "color_name": "Bisque2",
+            "color_code": "#eed5b7"
+        },
+        {
+            "color_name": "Bisque3",
+            "color_code": "#cdb79e"
+        },
+        {
+            "color_name": "Bisque4",
+            "color_code": "#8b7d6b"
+        },
+        {
+            "color_name": "Bistre",
+            "color_code": "#3d2b1f"
+        },
+        {
+            "color_name": "Bitter Lemon",
+            "color_code": "#cae00d"
+        },
+        {
+            "color_name": "Bitter Lime",
+            "color_code": "#bfff00"
+        },
+        {
+            "color_name": "Bittersweet",
+            "color_code": "#fe6f5e"
+        },
+        {
+            "color_name": "Bittersweet Shimmer",
+            "color_code": "#bf4f51"
+        },
+        {
+            "color_name": "Black",
+            "color_code": "#000000"
+        },
+        {
+            "color_name": "Black Coffee",
+            "color_code": "#3b2f2f"
+        },
+        {
+            "color_name": "Black Olive",
+            "color_code": "#3b3c36"
+        },
+        {
+            "color_name": "Black Shadows",
+            "color_code": "#bfafb2"
+        },
+        {
+            "color_name": "BlanchedAlmond",
+            "color_code": "#ffebcd"
+        },
+        {
+            "color_name": "Bleu de France",
+            "color_code": "#318ce7"
+        },
+        {
+            "color_name": "Blond",
+            "color_code": "#faf0be"
+        },
+        {
+            "color_name": "Blue (Pantone)",
+            "color_code": "#0018a8"
+        },
+        {
+            "color_name": "Blue Bell",
+            "color_code": "#a2a2d0"
+        },
+        {
+            "color_name": "Blue Green",
+            "color_code": "#0d98ba"
+        },
+        {
+            "color_name": "Blue1",
+            "color_code": "#0000ff"
+        },
+        {
+            "color_name": "Blue2",
+            "color_code": "#0000ee"
+        },
+        {
+            "color_name": "Blue4",
+            "color_code": "#00008b"
+        },
+        {
+            "color_name": "BlueViolet",
+            "color_code": "#8a2be2"
+        },
+        {
+            "color_name": "Bole",
+            "color_code": "#79443b"
+        },
+        {
+            "color_name": "Bone",
+            "color_code": "#e3dac9"
+        },
+        {
+            "color_name": "Boysenberry",
+            "color_code": "#873260"
+        },
+        {
+            "color_name": "Brandeis Blue",
+            "color_code": "#0070ff"
+        },
+        {
+            "color_name": "Brass",
+            "color_code": "#b5a642"
+        },
+        {
+            "color_name": "Brick Red",
+            "color_code": "#cb4154"
+        },
+        {
+            "color_name": "Bright Cerulean",
+            "color_code": "#1dacd6"
+        },
+        {
+            "color_name": "Bright Green",
+            "color_code": "#66ff00"
+        },
+        {
+            "color_name": "Bright Lavender",
+            "color_code": "#bf94e4"
+        },
+        {
+            "color_name": "Bright Lilac",
+            "color_code": "#d891ef"
+        },
+        {
+            "color_name": "Bright Maroon",
+            "color_code": "#c32148"
+        },
+        {
+            "color_name": "Bright Navy Blue",
+            "color_code": "#1974d2"
+        },
+        {
+            "color_name": "Bright Turquoise",
+            "color_code": "#08e8de"
+        },
+        {
+            "color_name": "Bright Ube",
+            "color_code": "#d19fe8"
+        },
+        {
+            "color_name": "Brilliant Rose",
+            "color_code": "#ff55a3"
+        },
+        {
+            "color_name": "Brink Pink",
+            "color_code": "#fb607f"
+        },
+        {
+            "color_name": "British Racing Green",
+            "color_code": "#004225"
+        },
+        {
+            "color_name": "Bronze",
+            "color_code": "#cd7f32"
+        },
+        {
+            "color_name": "Brown",
+            "color_code": "#a52a2a"
+        },
+        {
+            "color_name": "Brown1",
+            "color_code": "#ff4040"
+        },
+        {
+            "color_name": "Brown2",
+            "color_code": "#ee3b3b"
+        },
+        {
+            "color_name": "Brown3",
+            "color_code": "#cd3333"
+        },
+        {
+            "color_name": "Brown4",
+            "color_code": "#8b2323"
+        },
+        {
+            "color_name": "Brunswick Green",
+            "color_code": "#1b4d3e"
+        },
+        {
+            "color_name": "Bubble Gum",
+            "color_code": "#ffc1cc"
+        },
+        {
+            "color_name": "Buff",
+            "color_code": "#f0dc82"
+        },
+        {
+            "color_name": "Bulgarian Rose",
+            "color_code": "#480607"
+        },
+        {
+            "color_name": "Burgundy",
+            "color_code": "#800020"
+        },
+        {
+            "color_name": "Burlywood",
+            "color_code": "#deb887"
+        },
+        {
+            "color_name": "Burlywood1",
+            "color_code": "#ffd39b"
+        },
+        {
+            "color_name": "Burlywood2",
+            "color_code": "#eec591"
+        },
+        {
+            "color_name": "Burlywood3",
+            "color_code": "#cdaa7d"
+        },
+        {
+            "color_name": "Burlywood4",
+            "color_code": "#8b7355"
+        },
+        {
+            "color_name": "Burnished Brown",
+            "color_code": "#a17a74"
+        },
+        {
+            "color_name": "Burnt Orange",
+            "color_code": "#cc5500"
+        },
+        {
+            "color_name": "Burnt Sienna",
+            "color_code": "#e97451"
+        },
+        {
+            "color_name": "Burnt Umber",
+            "color_code": "#8a3324"
+        },
+        {
+            "color_name": "Byzantine",
+            "color_code": "#bd33a4"
+        },
+        {
+            "color_name": "Byzantium",
+            "color_code": "#702963"
+        },
+        {
+            "color_name": "Cadet Grey",
+            "color_code": "#91a3b0"
+        },
+        {
+            "color_name": "CadetBlue",
+            "color_code": "#5f9ea0"
+        },
+        {
+            "color_name": "CadetBlue1",
+            "color_code": "#98f5ff"
+        },
+        {
+            "color_name": "CadetBlue2",
+            "color_code": "#8ee5ee"
+        },
+        {
+            "color_name": "CadetBlue3",
+            "color_code": "#7ac5cd"
+        },
+        {
+            "color_name": "CadetBlue4",
+            "color_code": "#53868b"
+        },
+        {
+            "color_name": "Cadmium Green",
+            "color_code": "#006b3c"
+        },
+        {
+            "color_name": "Cadmium Orange",
+            "color_code": "#ed872d"
+        },
+        {
+            "color_name": "Cadmium Red",
+            "color_code": "#e30022"
+        },
+        {
+            "color_name": "Cadmium Yellow",
+            "color_code": "#fff600"
+        },
+        {
+            "color_name": "Cambridge Blue",
+            "color_code": "#a3c1ad"
+        },
+        {
+            "color_name": "Camel",
+            "color_code": "#c19a6b"
+        },
+        {
+            "color_name": "Cameo Pink",
+            "color_code": "#efbbcc"
+        },
+        {
+            "color_name": "Camouflage Green",
+            "color_code": "#78866b"
+        },
+        {
+            "color_name": "Canary",
+            "color_code": "#ffff99"
+        },
+        {
+            "color_name": "Canary Yellow",
+            "color_code": "#ffef00"
+        },
+        {
+            "color_name": "Candy Apple Red",
+            "color_code": "#ff0800"
+        },
+        {
+            "color_name": "Candy Pink",
+            "color_code": "#e4717a"
+        },
+        {
+            "color_name": "Caput Mortuum",
+            "color_code": "#592720"
+        },
+        {
+            "color_name": "Cardinal",
+            "color_code": "#c41e3a"
+        },
+        {
+            "color_name": "Caribbean Green",
+            "color_code": "#00cc99"
+        },
+        {
+            "color_name": "Carmine",
+            "color_code": "#960018"
+        },
+        {
+            "color_name": "Carmine Pink",
+            "color_code": "#eb4c42"
+        },
+        {
+            "color_name": "Carnation Pink",
+            "color_code": "#ffa6c9"
+        },
+        {
+            "color_name": "Carnelian",
+            "color_code": "#b31b1b"
+        },
+        {
+            "color_name": "Carolina Blue",
+            "color_code": "#56a0d3"
+        },
+        {
+            "color_name": "Carrot Orange",
+            "color_code": "#ed9121"
+        },
+        {
+            "color_name": "Castleton Green",
+            "color_code": "#00563f"
+        },
+        {
+            "color_name": "Cedar Chest",
+            "color_code": "#c95a49"
+        },
+        {
+            "color_name": "Celadon",
+            "color_code": "#ace1af"
+        },
+        {
+            "color_name": "Celadon Green",
+            "color_code": "#2f847c"
+        },
+        {
+            "color_name": "Celeste",
+            "color_code": "#b2ffff"
+        },
+        {
+            "color_name": "Celtic Blue",
+            "color_code": "#246bce"
+        },
+        {
+            "color_name": "Cerise",
+            "color_code": "#de3163"
+        },
+        {
+            "color_name": "Cerulean",
+            "color_code": "#007ba7"
+        },
+        {
+            "color_name": "Cerulean Blue",
+            "color_code": "#2a52be"
+        },
+        {
+            "color_name": "Cerulean Frost",
+            "color_code": "#6d9bc3"
+        },
+        {
+            "color_name": "Cg Blue",
+            "color_code": "#007aa5"
+        },
+        {
+            "color_name": "Chamoisee",
+            "color_code": "#a0785a"
+        },
+        {
+            "color_name": "Champagne",
+            "color_code": "#f7e7ce"
+        },
+        {
+            "color_name": "Charcoal",
+            "color_code": "#36454f"
+        },
+        {
+            "color_name": "Chartreuse1",
+            "color_code": "#7fff00"
+        },
+        {
+            "color_name": "Chartreuse2",
+            "color_code": "#76ee00"
+        },
+        {
+            "color_name": "Chartreuse3",
+            "color_code": "#66cd00"
+        },
+        {
+            "color_name": "Chartreuse4",
+            "color_code": "#458b00"
+        },
+        {
+            "color_name": "Cherry Blossom Pink",
+            "color_code": "#ffb7c5"
+        },
+        {
+            "color_name": "Chestnut",
+            "color_code": "#954535"
+        },
+        {
+            "color_name": "Chocolate",
+            "color_code": "#d2691e"
+        },
+        {
+            "color_name": "Chocolate1",
+            "color_code": "#ff7f24"
+        },
+        {
+            "color_name": "Chocolate2",
+            "color_code": "#ee7621"
+        },
+        {
+            "color_name": "Chocolate3",
+            "color_code": "#cd661d"
+        },
+        {
+            "color_name": "Chrome Yellow",
+            "color_code": "#ffa700"
+        },
+        {
+            "color_name": "Cinereous",
+            "color_code": "#98817b"
+        },
+        {
+            "color_name": "Cinnabar",
+            "color_code": "#e34234"
+        },
+        {
+            "color_name": "Citrine",
+            "color_code": "#e4d00a"
+        },
+        {
+            "color_name": "Citron",
+            "color_code": "#9fa91f"
+        },
+        {
+            "color_name": "Claret",
+            "color_code": "#7f1734"
+        },
+        {
+            "color_name": "Cobalt",
+            "color_code": "#0047ab"
+        },
+        {
+            "color_name": "Coffee",
+            "color_code": "#6f4e37"
+        },
+        {
+            "color_name": "Cool Grey",
+            "color_code": "#8c92ac"
+        },
+        {
+            "color_name": "Copper",
+            "color_code": "#b87333"
+        },
+        {
+            "color_name": "Copper Red",
+            "color_code": "#cb6d51"
+        },
+        {
+            "color_name": "Copper Rose",
+            "color_code": "#996666"
+        },
+        {
+            "color_name": "Coquelicot",
+            "color_code": "#ff3800"
+        },
+        {
+            "color_name": "Coral",
+            "color_code": "#ff7f50"
+        },
+        {
+            "color_name": "Coral Pink",
+            "color_code": "#f88379"
+        },
+        {
+            "color_name": "Coral1",
+            "color_code": "#ff7256"
+        },
+        {
+            "color_name": "Coral2",
+            "color_code": "#ee6a50"
+        },
+        {
+            "color_name": "Coral3",
+            "color_code": "#cd5b45"
+        },
+        {
+            "color_name": "Coral4",
+            "color_code": "#8b3e2f"
+        },
+        {
+            "color_name": "Cordovan",
+            "color_code": "#893f45"
+        },
+        {
+            "color_name": "Corn",
+            "color_code": "#fbec5d"
+        },
+        {
+            "color_name": "CornflowerBlue",
+            "color_code": "#6495ed"
+        },
+        {
+            "color_name": "Cornsilk1",
+            "color_code": "#fff8dc"
+        },
+        {
+            "color_name": "Cornsilk2",
+            "color_code": "#eee8cd"
+        },
+        {
+            "color_name": "Cornsilk3",
+            "color_code": "#cdc8b1"
+        },
+        {
+            "color_name": "Cornsilk4",
+            "color_code": "#8b8878"
+        },
+        {
+            "color_name": "Cosmic Cobalt",
+            "color_code": "#2e2d88"
+        },
+        {
+            "color_name": "Cosmic Latte",
+            "color_code": "#fff8e7"
+        },
+        {
+            "color_name": "Cotton Candy",
+            "color_code": "#ffbcd9"
+        },
+        {
+            "color_name": "Cream",
+            "color_code": "#fffdd0"
+        },
+        {
+            "color_name": "Crimson",
+            "color_code": "#dc143c"
+        },
+        {
+            "color_name": "Crystal",
+            "color_code": "#a7d8de"
+        },
+        {
+            "color_name": "Cyan1",
+            "color_code": "#00ffff"
+        },
+        {
+            "color_name": "Cyan2",
+            "color_code": "#00eeee"
+        },
+        {
+            "color_name": "Cyan3",
+            "color_code": "#00cdcd"
+        },
+        {
+            "color_name": "Cyan4",
+            "color_code": "#008b8b"
+        },
+        {
+            "color_name": "Cyclamen",
+            "color_code": "#f56fa1"
+        },
+        {
+            "color_name": "Daffodil",
+            "color_code": "#ffff31"
+        },
+        {
+            "color_name": "Dandelion",
+            "color_code": "#f0e130"
+        },
+        {
+            "color_name": "Dark Brown",
+            "color_code": "#654321"
+        },
+        {
+            "color_name": "Dark Byzantium",
+            "color_code": "#5d3954"
+        },
+        {
+            "color_name": "Dark Jungle Green",
+            "color_code": "#1a2421"
+        },
+        {
+            "color_name": "Dark Lavender",
+            "color_code": "#734f96"
+        },
+        {
+            "color_name": "Dark Moss Green",
+            "color_code": "#4a5d23"
+        },
+        {
+            "color_name": "Dark Pastel Green",
+            "color_code": "#03c03c"
+        },
+        {
+            "color_name": "Dark Sienna",
+            "color_code": "#3c1414"
+        },
+        {
+            "color_name": "Dark Sky Blue",
+            "color_code": "#8cbed6"
+        },
+        {
+            "color_name": "Dark Spring Green",
+            "color_code": "#177245"
+        },
+        {
+            "color_name": "DarkGoldenrod",
+            "color_code": "#b8860b"
+        },
+        {
+            "color_name": "DarkGoldenrod1",
+            "color_code": "#ffb90f"
+        },
+        {
+            "color_name": "DarkGoldenrod2",
+            "color_code": "#eead0e"
+        },
+        {
+            "color_name": "DarkGoldenrod3",
+            "color_code": "#cd950c"
+        },
+        {
+            "color_name": "DarkGoldenrod4",
+            "color_code": "#8b6508"
+        },
+        {
+            "color_name": "DarkGreen",
+            "color_code": "#006400"
+        },
+        {
+            "color_name": "DarkKhaki",
+            "color_code": "#bdb76b"
+        },
+        {
+            "color_name": "DarkOliveGreen",
+            "color_code": "#556b2f"
+        },
+        {
+            "color_name": "DarkOliveGreen1",
+            "color_code": "#caff70"
+        },
+        {
+            "color_name": "DarkOliveGreen2",
+            "color_code": "#bcee68"
+        },
+        {
+            "color_name": "DarkOliveGreen3",
+            "color_code": "#a2cd5a"
+        },
+        {
+            "color_name": "DarkOliveGreen4",
+            "color_code": "#6e8b3d"
+        },
+        {
+            "color_name": "DarkOrange",
+            "color_code": "#ff8c00"
+        },
+        {
+            "color_name": "DarkOrange1",
+            "color_code": "#ff7f00"
+        },
+        {
+            "color_name": "DarkOrange2",
+            "color_code": "#ee7600"
+        },
+        {
+            "color_name": "DarkOrange3",
+            "color_code": "#cd6600"
+        },
+        {
+            "color_name": "DarkOrange4",
+            "color_code": "#8b4500"
+        },
+        {
+            "color_name": "DarkOrchid",
+            "color_code": "#9932cc"
+        },
+        {
+            "color_name": "DarkOrchid1",
+            "color_code": "#bf3eff"
+        },
+        {
+            "color_name": "DarkOrchid2",
+            "color_code": "#b23aee"
+        },
+        {
+            "color_name": "DarkOrchid3",
+            "color_code": "#9a32cd"
+        },
+        {
+            "color_name": "DarkOrchid4",
+            "color_code": "#68228b"
+        },
+        {
+            "color_name": "DarkSalmon",
+            "color_code": "#e9967a"
+        },
+        {
+            "color_name": "DarkSeaGreen",
+            "color_code": "#8fbc8f"
+        },
+        {
+            "color_name": "DarkSeaGreen1",
+            "color_code": "#c1ffc1"
+        },
+        {
+            "color_name": "DarkSeaGreen2",
+            "color_code": "#b4eeb4"
+        },
+        {
+            "color_name": "DarkSeaGreen3",
+            "color_code": "#9bcd9b"
+        },
+        {
+            "color_name": "DarkSeaGreen4",
+            "color_code": "#698b69"
+        },
+        {
+            "color_name": "DarkSlateBlue",
+            "color_code": "#483d8b"
+        },
+        {
+            "color_name": "DarkSlateGray",
+            "color_code": "#2f4f4f"
+        },
+        {
+            "color_name": "DarkSlateGray1",
+            "color_code": "#97ffff"
+        },
+        {
+            "color_name": "DarkSlateGray2",
+            "color_code": "#8deeee"
+        },
+        {
+            "color_name": "DarkSlateGray3",
+            "color_code": "#79cdcd"
+        },
+        {
+            "color_name": "DarkSlateGray4",
+            "color_code": "#528b8b"
+        },
+        {
+            "color_name": "DarkTurquoise",
+            "color_code": "#00ced1"
+        },
+        {
+            "color_name": "DarkViolet",
+            "color_code": "#9400d3"
+        },
+        {
+            "color_name": "Dartmouth Green",
+            "color_code": "#00703c"
+        },
+        {
+            "color_name": "Deep Cerise",
+            "color_code": "#da3287"
+        },
+        {
+            "color_name": "Deep Champagne",
+            "color_code": "#fad6a5"
+        },
+        {
+            "color_name": "Deep Fuchsia",
+            "color_code": "#c154c1"
+        },
+        {
+            "color_name": "Deep Jungle Green",
+            "color_code": "#004b49"
+        },
+        {
+            "color_name": "Deep Peach",
+            "color_code": "#ffcba4"
+        },
+        {
+            "color_name": "Deep Saffron",
+            "color_code": "#ff9933"
+        },
+        {
+            "color_name": "Deep Space Sparkle",
+            "color_code": "#4a646c"
+        },
+        {
+            "color_name": "Deep chestnut",
+            "color_code": "#b94e48"
+        },
+        {
+            "color_name": "DeepPink1",
+            "color_code": "#ff1493"
+        },
+        {
+            "color_name": "DeepPink2",
+            "color_code": "#ee1289"
+        },
+        {
+            "color_name": "DeepPink3",
+            "color_code": "#cd1076"
+        },
+        {
+            "color_name": "DeepPink4",
+            "color_code": "#8b0a50"
+        },
+        {
+            "color_name": "DeepSkyBlue1",
+            "color_code": "#00bfff"
+        },
+        {
+            "color_name": "DeepSkyBlue2",
+            "color_code": "#00b2ee"
+        },
+        {
+            "color_name": "DeepSkyBlue3",
+            "color_code": "#009acd"
+        },
+        {
+            "color_name": "DeepSkyBlue4",
+            "color_code": "#00688b"
+        },
+        {
+            "color_name": "Denim",
+            "color_code": "#1560bd"
+        },
+        {
+            "color_name": "Denim Blue",
+            "color_code": "#2243b6"
+        },
+        {
+            "color_name": "Desert Sand",
+            "color_code": "#edc9af"
+        },
+        {
+            "color_name": "DimGray",
+            "color_code": "#696969"
+        },
+        {
+            "color_name": "DodgerBlue1",
+            "color_code": "#1e90ff"
+        },
+        {
+            "color_name": "DodgerBlue2",
+            "color_code": "#1c86ee"
+        },
+        {
+            "color_name": "DodgerBlue3",
+            "color_code": "#1874cd"
+        },
+        {
+            "color_name": "DodgerBlue4",
+            "color_code": "#104e8b"
+        },
+        {
+            "color_name": "Dogwood Rose",
+            "color_code": "#d71868"
+        },
+        {
+            "color_name": "Dutch White",
+            "color_code": "#efdfbb"
+        },
+        {
+            "color_name": "Earth Yellow",
+            "color_code": "#e1a95f"
+        },
+        {
+            "color_name": "Ebony",
+            "color_code": "#555d50"
+        },
+        {
+            "color_name": "Eggplant",
+            "color_code": "#614051"
+        },
+        {
+            "color_name": "Eggshell",
+            "color_code": "#f0ead6"
+        },
+        {
+            "color_name": "Egyptian Blue",
+            "color_code": "#1034a6"
+        },
+        {
+            "color_name": "Electric Blue",
+            "color_code": "#7df9ff"
+        },
+        {
+            "color_name": "Electric Indigo",
+            "color_code": "#6f00ff"
+        },
+        {
+            "color_name": "Electric Lime",
+            "color_code": "#ccff00"
+        },
+        {
+            "color_name": "Electric Purple",
+            "color_code": "#bf00ff"
+        },
+        {
+            "color_name": "Emerald",
+            "color_code": "#50c878"
+        },
+        {
+            "color_name": "Eminence",
+            "color_code": "#6c3082"
+        },
+        {
+            "color_name": "Eton Blue",
+            "color_code": "#96c8a2"
+        },
+        {
+            "color_name": "Falu Red",
+            "color_code": "#801818"
+        },
+        {
+            "color_name": "Fawn",
+            "color_code": "#e5aa70"
+        },
+        {
+            "color_name": "Feldgrau",
+            "color_code": "#4d5d53"
+        },
+        {
+            "color_name": "Fern Green",
+            "color_code": "#4f7942"
+        },
+        {
+            "color_name": "Ferrari Red",
+            "color_code": "#ff2800"
+        },
+        {
+            "color_name": "Fire Opal",
+            "color_code": "#e95c4b"
+        },
+        {
+            "color_name": "Firebrick",
+            "color_code": "#b22222"
+        },
+        {
+            "color_name": "Firebrick1",
+            "color_code": "#ff3030"
+        },
+        {
+            "color_name": "Firebrick2",
+            "color_code": "#ee2c2c"
+        },
+        {
+            "color_name": "Firebrick3",
+            "color_code": "#cd2626"
+        },
+        {
+            "color_name": "Firebrick4",
+            "color_code": "#8b1a1a"
+        },
+        {
+            "color_name": "Flamingo Pink",
+            "color_code": "#fc8eac"
+        },
+        {
+            "color_name": "FloralWhite",
+            "color_code": "#fffaf0"
+        },
+        {
+            "color_name": "Flourescent Blue",
+            "color_code": "#15f4ee"
+        },
+        {
+            "color_name": "Forest Green",
+            "color_code": "#228b22"
+        },
+        {
+            "color_name": "ForestGreen",
+            "color_code": "#228b22"
+        },
+        {
+            "color_name": "French Beige",
+            "color_code": "#a67b5b"
+        },
+        {
+            "color_name": "French Bistre",
+            "color_code": "#856d4d"
+        },
+        {
+            "color_name": "French Blue",
+            "color_code": "#0072bb"
+        },
+        {
+            "color_name": "French Lilac",
+            "color_code": "#86608e"
+        },
+        {
+            "color_name": "French Mauve",
+            "color_code": "#d473d4"
+        },
+        {
+            "color_name": "French Pink",
+            "color_code": "#fd6c9e"
+        },
+        {
+            "color_name": "French Rose",
+            "color_code": "#f64a8a"
+        },
+        {
+            "color_name": "French Sky Blue",
+            "color_code": "#77b5fe"
+        },
+        {
+            "color_name": "French Violet",
+            "color_code": "#8806ce"
+        },
+        {
+            "color_name": "Frostbite",
+            "color_code": "#e936a7"
+        },
+        {
+            "color_name": "Fuchsia Purple",
+            "color_code": "#cc397b"
+        },
+        {
+            "color_name": "Fuchsia Rose",
+            "color_code": "#c74375"
+        },
+        {
+            "color_name": "Fulvous",
+            "color_code": "#e48400"
+        },
+        {
+            "color_name": "Fuzzy Wuzzy",
+            "color_code": "#87421f"
+        },
+        {
+            "color_name": "GO Green",
+            "color_code": "#00ab66"
+        },
+        {
+            "color_name": "Gainsboro",
+            "color_code": "#dcdcdc"
+        },
+        {
+            "color_name": "Gamboge",
+            "color_code": "#e49b0f"
+        },
+        {
+            "color_name": "Generic Viridian",
+            "color_code": "#007f66"
+        },
+        {
+            "color_name": "GhostWhite",
+            "color_code": "#f8f8ff"
+        },
+        {
+            "color_name": "Ginger",
+            "color_code": "#b06500"
+        },
+        {
+            "color_name": "Glaucous",
+            "color_code": "#6082b6"
+        },
+        {
+            "color_name": "Glossy Grape",
+            "color_code": "#ab92b3"
+        },
+        {
+            "color_name": "Gold Fusion",
+            "color_code": "#85754e"
+        },
+        {
+            "color_name": "Gold1",
+            "color_code": "#ffd700"
+        },
+        {
+            "color_name": "Gold2",
+            "color_code": "#eec900"
+        },
+        {
+            "color_name": "Gold3",
+            "color_code": "#cdad00"
+        },
+        {
+            "color_name": "Gold4",
+            "color_code": "#8b7500"
+        },
+        {
+            "color_name": "Golden Brown",
+            "color_code": "#996515"
+        },
+        {
+            "color_name": "Golden Poppy",
+            "color_code": "#fcc200"
+        },
+        {
+            "color_name": "Golden Yellow",
+            "color_code": "#ffdf00"
+        },
+        {
+            "color_name": "Goldenrod",
+            "color_code": "#daa520"
+        },
+        {
+            "color_name": "Goldenrod1",
+            "color_code": "#ffc125"
+        },
+        {
+            "color_name": "Goldenrod2",
+            "color_code": "#eeb422"
+        },
+        {
+            "color_name": "Goldenrod3",
+            "color_code": "#cd9b1d"
+        },
+        {
+            "color_name": "Goldenrod4",
+            "color_code": "#8b6914"
+        },
+        {
+            "color_name": "Granite Gray",
+            "color_code": "#676767"
+        },
+        {
+            "color_name": "Granny Smith Apple",
+            "color_code": "#a8e4a0"
+        },
+        {
+            "color_name": "Gray",
+            "color_code": "#bebebe"
+        },
+        {
+            "color_name": "Gray1",
+            "color_code": "#030303"
+        },
+        {
+            "color_name": "Gray10",
+            "color_code": "#1a1a1a"
+        },
+        {
+            "color_name": "Gray11",
+            "color_code": "#1c1c1c"
+        },
+        {
+            "color_name": "Gray12",
+            "color_code": "#1f1f1f"
+        },
+        {
+            "color_name": "Gray13",
+            "color_code": "#212121"
+        },
+        {
+            "color_name": "Gray14",
+            "color_code": "#242424"
+        },
+        {
+            "color_name": "Gray15",
+            "color_code": "#262626"
+        },
+        {
+            "color_name": "Gray16",
+            "color_code": "#292929"
+        },
+        {
+            "color_name": "Gray17",
+            "color_code": "#2b2b2b"
+        },
+        {
+            "color_name": "Gray18",
+            "color_code": "#2e2e2e"
+        },
+        {
+            "color_name": "Gray19",
+            "color_code": "#303030"
+        },
+        {
+            "color_name": "Gray2",
+            "color_code": "#050505"
+        },
+        {
+            "color_name": "Gray20",
+            "color_code": "#333333"
+        },
+        {
+            "color_name": "Gray21",
+            "color_code": "#363636"
+        },
+        {
+            "color_name": "Gray22",
+            "color_code": "#383838"
+        },
+        {
+            "color_name": "Gray23",
+            "color_code": "#3b3b3b"
+        },
+        {
+            "color_name": "Gray24",
+            "color_code": "#3d3d3d"
+        },
+        {
+            "color_name": "Gray25",
+            "color_code": "#404040"
+        },
+        {
+            "color_name": "Gray26",
+            "color_code": "#424242"
+        },
+        {
+            "color_name": "Gray27",
+            "color_code": "#454545"
+        },
+        {
+            "color_name": "Gray28",
+            "color_code": "#474747"
+        },
+        {
+            "color_name": "Gray29",
+            "color_code": "#4a4a4a"
+        },
+        {
+            "color_name": "Gray3",
+            "color_code": "#080808"
+        },
+        {
+            "color_name": "Gray30",
+            "color_code": "#4d4d4d"
+        },
+        {
+            "color_name": "Gray31",
+            "color_code": "#4f4f4f"
+        },
+        {
+            "color_name": "Gray32",
+            "color_code": "#525252"
+        },
+        {
+            "color_name": "Gray33",
+            "color_code": "#545454"
+        },
+        {
+            "color_name": "Gray34",
+            "color_code": "#575757"
+        },
+        {
+            "color_name": "Gray35",
+            "color_code": "#595959"
+        },
+        {
+            "color_name": "Gray36",
+            "color_code": "#5c5c5c"
+        },
+        {
+            "color_name": "Gray37",
+            "color_code": "#5e5e5e"
+        },
+        {
+            "color_name": "Gray38",
+            "color_code": "#616161"
+        },
+        {
+            "color_name": "Gray39",
+            "color_code": "#636363"
+        },
+        {
+            "color_name": "Gray4",
+            "color_code": "#0a0a0a"
+        },
+        {
+            "color_name": "Gray40",
+            "color_code": "#666666"
+        },
+        {
+            "color_name": "Gray41",
+            "color_code": "#696969"
+        },
+        {
+            "color_name": "Gray42",
+            "color_code": "#6b6b6b"
+        },
+        {
+            "color_name": "Gray43",
+            "color_code": "#6e6e6e"
+        },
+        {
+            "color_name": "Gray44",
+            "color_code": "#707070"
+        },
+        {
+            "color_name": "Gray45",
+            "color_code": "#737373"
+        },
+        {
+            "color_name": "Gray46",
+            "color_code": "#757575"
+        },
+        {
+            "color_name": "Gray47",
+            "color_code": "#787878"
+        },
+        {
+            "color_name": "Gray48",
+            "color_code": "#7a7a7a"
+        },
+        {
+            "color_name": "Gray49",
+            "color_code": "#7d7d7d"
+        },
+        {
+            "color_name": "Gray5",
+            "color_code": "#0d0d0d"
+        },
+        {
+            "color_name": "Gray50",
+            "color_code": "#7f7f7f"
+        },
+        {
+            "color_name": "Gray51",
+            "color_code": "#828282"
+        },
+        {
+            "color_name": "Gray52",
+            "color_code": "#858585"
+        },
+        {
+            "color_name": "Gray53",
+            "color_code": "#878787"
+        },
+        {
+            "color_name": "Gray54",
+            "color_code": "#8a8a8a"
+        },
+        {
+            "color_name": "Gray55",
+            "color_code": "#8c8c8c"
+        },
+        {
+            "color_name": "Gray56",
+            "color_code": "#8f8f8f"
+        },
+        {
+            "color_name": "Gray57",
+            "color_code": "#919191"
+        },
+        {
+            "color_name": "Gray58",
+            "color_code": "#949494"
+        },
+        {
+            "color_name": "Gray59",
+            "color_code": "#969696"
+        },
+        {
+            "color_name": "Gray6",
+            "color_code": "#0f0f0f"
+        },
+        {
+            "color_name": "Gray60",
+            "color_code": "#999999"
+        },
+        {
+            "color_name": "Gray61",
+            "color_code": "#9c9c9c"
+        },
+        {
+            "color_name": "Gray62",
+            "color_code": "#9e9e9e"
+        },
+        {
+            "color_name": "Gray63",
+            "color_code": "#a1a1a1"
+        },
+        {
+            "color_name": "Gray64",
+            "color_code": "#a3a3a3"
+        },
+        {
+            "color_name": "Gray65",
+            "color_code": "#a6a6a6"
+        },
+        {
+            "color_name": "Gray66",
+            "color_code": "#a8a8a8"
+        },
+        {
+            "color_name": "Gray67",
+            "color_code": "#ababab"
+        },
+        {
+            "color_name": "Gray68",
+            "color_code": "#adadad"
+        },
+        {
+            "color_name": "Gray69",
+            "color_code": "#b0b0b0"
+        },
+        {
+            "color_name": "Gray7",
+            "color_code": "#121212"
+        },
+        {
+            "color_name": "Gray70",
+            "color_code": "#b3b3b3"
+        },
+        {
+            "color_name": "Gray71",
+            "color_code": "#b5b5b5"
+        },
+        {
+            "color_name": "Gray72",
+            "color_code": "#b8b8b8"
+        },
+        {
+            "color_name": "Gray73",
+            "color_code": "#bababa"
+        },
+        {
+            "color_name": "Gray74",
+            "color_code": "#bdbdbd"
+        },
+        {
+            "color_name": "Gray75",
+            "color_code": "#bfbfbf"
+        },
+        {
+            "color_name": "Gray76",
+            "color_code": "#c2c2c2"
+        },
+        {
+            "color_name": "Gray77",
+            "color_code": "#c4c4c4"
+        },
+        {
+            "color_name": "Gray78",
+            "color_code": "#c7c7c7"
+        },
+        {
+            "color_name": "Gray79",
+            "color_code": "#c9c9c9"
+        },
+        {
+            "color_name": "Gray8",
+            "color_code": "#141414"
+        },
+        {
+            "color_name": "Gray80",
+            "color_code": "#cccccc"
+        },
+        {
+            "color_name": "Gray81",
+            "color_code": "#cfcfcf"
+        },
+        {
+            "color_name": "Gray82",
+            "color_code": "#d1d1d1"
+        },
+        {
+            "color_name": "Gray83",
+            "color_code": "#d4d4d4"
+        },
+        {
+            "color_name": "Gray84",
+            "color_code": "#d6d6d6"
+        },
+        {
+            "color_name": "Gray85",
+            "color_code": "#d9d9d9"
+        },
+        {
+            "color_name": "Gray86",
+            "color_code": "#dbdbdb"
+        },
+        {
+            "color_name": "Gray87",
+            "color_code": "#dedede"
+        },
+        {
+            "color_name": "Gray88",
+            "color_code": "#e0e0e0"
+        },
+        {
+            "color_name": "Gray89",
+            "color_code": "#e3e3e3"
+        },
+        {
+            "color_name": "Gray9",
+            "color_code": "#171717"
+        },
+        {
+            "color_name": "Gray90",
+            "color_code": "#e5e5e5"
+        },
+        {
+            "color_name": "Gray91",
+            "color_code": "#e8e8e8"
+        },
+        {
+            "color_name": "Gray92",
+            "color_code": "#ebebeb"
+        },
+        {
+            "color_name": "Gray93",
+            "color_code": "#ededed"
+        },
+        {
+            "color_name": "Gray94",
+            "color_code": "#f0f0f0"
+        },
+        {
+            "color_name": "Gray95",
+            "color_code": "#f2f2f2"
+        },
+        {
+            "color_name": "Gray97",
+            "color_code": "#f7f7f7"
+        },
+        {
+            "color_name": "Gray98",
+            "color_code": "#fafafa"
+        },
+        {
+            "color_name": "Gray99",
+            "color_code": "#fcfcfc"
+        },
+        {
+            "color_name": "Green (Crayola)",
+            "color_code": "#1cac78"
+        },
+        {
+            "color_name": "Green (Pantone)",
+            "color_code": "#00ad43"
+        },
+        {
+            "color_name": "Green (Pigment)",
+            "color_code": "#00a550"
+        },
+        {
+            "color_name": "Green Lizard",
+            "color_code": "#a7f432"
+        },
+        {
+            "color_name": "Green Sheen",
+            "color_code": "#6eaea1"
+        },
+        {
+            "color_name": "Green1",
+            "color_code": "#00ff00"
+        },
+        {
+            "color_name": "Green2",
+            "color_code": "#00ee00"
+        },
+        {
+            "color_name": "Green3",
+            "color_code": "#00cd00"
+        },
+        {
+            "color_name": "Green4",
+            "color_code": "#008b00"
+        },
+        {
+            "color_name": "GreenYellow",
+            "color_code": "#adff2f"
+        },
+        {
+            "color_name": "Grullo",
+            "color_code": "#a99a86"
+        },
+        {
+            "color_name": "Gunmetal",
+            "color_code": "#2a3439"
+        },
+        {
+            "color_name": "Han Blue",
+            "color_code": "#446ccf"
+        },
+        {
+            "color_name": "Han Purple",
+            "color_code": "#5218fa"
+        },
+        {
+            "color_name": "Harlequin",
+            "color_code": "#3fff00"
+        },
+        {
+            "color_name": "Harvest Gold",
+            "color_code": "#da9100"
+        },
+        {
+            "color_name": "Heliotrope",
+            "color_code": "#df73ff"
+        },
+        {
+            "color_name": "Hollywood Cerise",
+            "color_code": "#f400a1"
+        },
+        {
+            "color_name": "Honeydew1",
+            "color_code": "#f0fff0"
+        },
+        {
+            "color_name": "Honeydew2",
+            "color_code": "#e0eee0"
+        },
+        {
+            "color_name": "Honeydew3",
+            "color_code": "#c1cdc1"
+        },
+        {
+            "color_name": "Honeydew4",
+            "color_code": "#838b83"
+        },
+        {
+            "color_name": "Honolulu Blue",
+            "color_code": "#006db0"
+        },
+        {
+            "color_name": "Hot Magenta",
+            "color_code": "#ff1dce"
+        },
+        {
+            "color_name": "HotPink",
+            "color_code": "#ff69b4"
+        },
+        {
+            "color_name": "HotPink1",
+            "color_code": "#ff6eb4"
+        },
+        {
+            "color_name": "HotPink2",
+            "color_code": "#ee6aa7"
+        },
+        {
+            "color_name": "HotPink3",
+            "color_code": "#cd6090"
+        },
+        {
+            "color_name": "HotPink4",
+            "color_code": "#8b3a62"
+        },
+        {
+            "color_name": "Hunter Green",
+            "color_code": "#355e3b"
+        },
+        {
+            "color_name": "Iceberg",
+            "color_code": "#71a6d2"
+        },
+        {
+            "color_name": "Icterine",
+            "color_code": "#fcf75e"
+        },
+        {
+            "color_name": "Illuminating Emerald",
+            "color_code": "#319177"
+        },
+        {
+            "color_name": "Imperial Red",
+            "color_code": "#ed2939"
+        },
+        {
+            "color_name": "Inchworm",
+            "color_code": "#b2ec5d"
+        },
+        {
+            "color_name": "India Green",
+            "color_code": "#138808"
+        },
+        {
+            "color_name": "Indian Yellow",
+            "color_code": "#e3a857"
+        },
+        {
+            "color_name": "IndianRed",
+            "color_code": "#cd5c5c"
+        },
+        {
+            "color_name": "IndianRed1",
+            "color_code": "#ff6a6a"
+        },
+        {
+            "color_name": "IndianRed2",
+            "color_code": "#ee6363"
+        },
+        {
+            "color_name": "IndianRed3",
+            "color_code": "#cd5555"
+        },
+        {
+            "color_name": "IndianRed4",
+            "color_code": "#8b3a3a"
+        },
+        {
+            "color_name": "Indigo",
+            "color_code": "#4b0082"
+        },
+        {
+            "color_name": "International Orange",
+            "color_code": "#ff4f00"
+        },
+        {
+            "color_name": "Iris",
+            "color_code": "#5a4fcf"
+        },
+        {
+            "color_name": "Isabelline",
+            "color_code": "#f4f0ec"
+        },
+        {
+            "color_name": "Ivory1",
+            "color_code": "#fffff0"
+        },
+        {
+            "color_name": "Ivory2",
+            "color_code": "#eeeee0"
+        },
+        {
+            "color_name": "Ivory3",
+            "color_code": "#cdcdc1"
+        },
+        {
+            "color_name": "Ivory4",
+            "color_code": "#8b8b83"
+        },
+        {
+            "color_name": "Jade",
+            "color_code": "#00a86b"
+        },
+        {
+            "color_name": "Japanese Carmine",
+            "color_code": "#9d2933"
+        },
+        {
+            "color_name": "Jasmine",
+            "color_code": "#f8de7e"
+        },
+        {
+            "color_name": "Jazzberry Jam",
+            "color_code": "#a50b5e"
+        },
+        {
+            "color_name": "Jonquil",
+            "color_code": "#f4ca16"
+        },
+        {
+            "color_name": "Jungle Green",
+            "color_code": "#29ab87"
+        },
+        {
+            "color_name": "Kelly Green",
+            "color_code": "#4cbb17"
+        },
+        {
+            "color_name": "Keppel",
+            "color_code": "#3ab09e"
+        },
+        {
+            "color_name": "Key Lime",
+            "color_code": "#e8f48c"
+        },
+        {
+            "color_name": "Khaki",
+            "color_code": "#f0e68c"
+        },
+        {
+            "color_name": "Khaki1",
+            "color_code": "#fff68f"
+        },
+        {
+            "color_name": "Khaki2",
+            "color_code": "#eee685"
+        },
+        {
+            "color_name": "Khaki3",
+            "color_code": "#cdc673"
+        },
+        {
+            "color_name": "Khaki4",
+            "color_code": "#8b864e"
+        },
+        {
+            "color_name": "Kombu Green",
+            "color_code": "#354230"
+        },
+        {
+            "color_name": "Languid Lavender",
+            "color_code": "#d6cadd"
+        },
+        {
+            "color_name": "Lapis Lazuli",
+            "color_code": "#26619c"
+        },
+        {
+            "color_name": "Laser Lemon",
+            "color_code": "#ffff66"
+        },
+        {
+            "color_name": "Laurel Green",
+            "color_code": "#a9ba9d"
+        },
+        {
+            "color_name": "Lavender",
+            "color_code": "#e6e6fa"
+        },
+        {
+            "color_name": "Lavender (Floral)",
+            "color_code": "#b57edc"
+        },
+        {
+            "color_name": "Lavender Blue",
+            "color_code": "#ccccff"
+        },
+        {
+            "color_name": "Lavender Gray",
+            "color_code": "#c4c3d0"
+        },
+        {
+            "color_name": "LavenderBlush1",
+            "color_code": "#fff0f5"
+        },
+        {
+            "color_name": "LavenderBlush2",
+            "color_code": "#eee0e5"
+        },
+        {
+            "color_name": "LavenderBlush3",
+            "color_code": "#cdc1c5"
+        },
+        {
+            "color_name": "LavenderBlush4",
+            "color_code": "#8b8386"
+        },
+        {
+            "color_name": "LawnGreen",
+            "color_code": "#7cfc00"
+        },
+        {
+            "color_name": "Lemon",
+            "color_code": "#fff700"
+        },
+        {
+            "color_name": "Lemon Curry",
+            "color_code": "#cca01d"
+        },
+        {
+            "color_name": "Lemon Glacier",
+            "color_code": "#fdff00"
+        },
+        {
+            "color_name": "Lemon Meringue",
+            "color_code": "#f6eabe"
+        },
+        {
+            "color_name": "Lemon Yellow",
+            "color_code": "#fff44f"
+        },
+        {
+            "color_name": "LemonChiffon1",
+            "color_code": "#fffacd"
+        },
+        {
+            "color_name": "LemonChiffon2",
+            "color_code": "#eee9bf"
+        },
+        {
+            "color_name": "LemonChiffon3",
+            "color_code": "#cdc9a5"
+        },
+        {
+            "color_name": "LemonChiffon4",
+            "color_code": "#8b8970"
+        },
+        {
+            "color_name": "Light",
+            "color_code": "#eedd82"
+        },
+        {
+            "color_name": "Light Cornflower Blue",
+            "color_code": "#93ccea"
+        },
+        {
+            "color_name": "Light French Beige",
+            "color_code": "#c8ad7f"
+        },
+        {
+            "color_name": "Light Orange",
+            "color_code": "#fed8b1"
+        },
+        {
+            "color_name": "Light Periwinkle",
+            "color_code": "#c5cbe1"
+        },
+        {
+            "color_name": "LightBlue",
+            "color_code": "#add8e6"
+        },
+        {
+            "color_name": "LightBlue1",
+            "color_code": "#bfefff"
+        },
+        {
+            "color_name": "LightBlue2",
+            "color_code": "#b2dfee"
+        },
+        {
+            "color_name": "LightBlue3",
+            "color_code": "#9ac0cd"
+        },
+        {
+            "color_name": "LightBlue4",
+            "color_code": "#68838b"
+        },
+        {
+            "color_name": "LightCoral",
+            "color_code": "#f08080"
+        },
+        {
+            "color_name": "LightCyan1",
+            "color_code": "#e0ffff"
+        },
+        {
+            "color_name": "LightCyan2",
+            "color_code": "#d1eeee"
+        },
+        {
+            "color_name": "LightCyan3",
+            "color_code": "#b4cdcd"
+        },
+        {
+            "color_name": "LightCyan4",
+            "color_code": "#7a8b8b"
+        },
+        {
+            "color_name": "LightGoldenrod1",
+            "color_code": "#ffec8b"
+        },
+        {
+            "color_name": "LightGoldenrod2",
+            "color_code": "#eedc82"
+        },
+        {
+            "color_name": "LightGoldenrod3",
+            "color_code": "#cdbe70"
+        },
+        {
+            "color_name": "LightGoldenrod4",
+            "color_code": "#8b814c"
+        },
+        {
+            "color_name": "LightGoldenrodYellow",
+            "color_code": "#fafad2"
+        },
+        {
+            "color_name": "LightGray",
+            "color_code": "#d3d3d3"
+        },
+        {
+            "color_name": "LightPink",
+            "color_code": "#ffb6c1"
+        },
+        {
+            "color_name": "LightPink1",
+            "color_code": "#ffaeb9"
+        },
+        {
+            "color_name": "LightPink2",
+            "color_code": "#eea2ad"
+        },
+        {
+            "color_name": "LightPink3",
+            "color_code": "#cd8c95"
+        },
+        {
+            "color_name": "LightPink4",
+            "color_code": "#8b5f65"
+        },
+        {
+            "color_name": "LightSalmon1",
+            "color_code": "#ffa07a"
+        },
+        {
+            "color_name": "LightSalmon2",
+            "color_code": "#ee9572"
+        },
+        {
+            "color_name": "LightSalmon3",
+            "color_code": "#cd8162"
+        },
+        {
+            "color_name": "LightSalmon4",
+            "color_code": "#8b5742"
+        },
+        {
+            "color_name": "LightSeaGreen",
+            "color_code": "#20b2aa"
+        },
+        {
+            "color_name": "LightSkyBlue",
+            "color_code": "#87cefa"
+        },
+        {
+            "color_name": "LightSkyBlue1",
+            "color_code": "#b0e2ff"
+        },
+        {
+            "color_name": "LightSkyBlue2",
+            "color_code": "#a4d3ee"
+        },
+        {
+            "color_name": "LightSkyBlue3",
+            "color_code": "#8db6cd"
+        },
+        {
+            "color_name": "LightSkyBlue4",
+            "color_code": "#607b8b"
+        },
+        {
+            "color_name": "LightSlateBlue",
+            "color_code": "#8470ff"
+        },
+        {
+            "color_name": "LightSlateGray",
+            "color_code": "#778899"
+        },
+        {
+            "color_name": "LightSteelBlue",
+            "color_code": "#b0c4de"
+        },
+        {
+            "color_name": "LightSteelBlue1",
+            "color_code": "#cae1ff"
+        },
+        {
+            "color_name": "LightSteelBlue2",
+            "color_code": "#bcd2ee"
+        },
+        {
+            "color_name": "LightSteelBlue3",
+            "color_code": "#a2b5cd"
+        },
+        {
+            "color_name": "LightSteelBlue4",
+            "color_code": "#6e7b8b"
+        },
+        {
+            "color_name": "LightYellow1",
+            "color_code": "#ffffe0"
+        },
+        {
+            "color_name": "LightYellow2",
+            "color_code": "#eeeed1"
+        },
+        {
+            "color_name": "LightYellow3",
+            "color_code": "#cdcdb4"
+        },
+        {
+            "color_name": "LightYellow4",
+            "color_code": "#8b8b7a"
+        },
+        {
+            "color_name": "Lilac",
+            "color_code": "#c8a2c8"
+        },
+        {
+            "color_name": "Lilac Luster",
+            "color_code": "#ae98aa"
+        },
+        {
+            "color_name": "LimeGreen",
+            "color_code": "#32cd32"
+        },
+        {
+            "color_name": "Lincoln Green",
+            "color_code": "#195905"
+        },
+        {
+            "color_name": "Linen",
+            "color_code": "#faf0e6"
+        },
+        {
+            "color_name": "Little Boy Blue",
+            "color_code": "#6ca0dc"
+        },
+        {
+            "color_name": "MSU Green",
+            "color_code": "#18453b"
+        },
+        {
+            "color_name": "Macaroni and Cheese",
+            "color_code": "#ffbd88"
+        },
+        {
+            "color_name": "Madder Lake",
+            "color_code": "#cc3336"
+        },
+        {
+            "color_name": "Magenta",
+            "color_code": "#ff00ff"
+        },
+        {
+            "color_name": "Magenta (Crayola)",
+            "color_code": "#f653a6"
+        },
+        {
+            "color_name": "Magenta (Pantone)",
+            "color_code": "#d0417e"
+        },
+        {
+            "color_name": "Magenta Haze",
+            "color_code": "#9f4576"
+        },
+        {
+            "color_name": "Magenta2",
+            "color_code": "#ee00ee"
+        },
+        {
+            "color_name": "Magenta3",
+            "color_code": "#cd00cd"
+        },
+        {
+            "color_name": "Magenta4",
+            "color_code": "#8b008b"
+        },
+        {
+            "color_name": "Magic Mint",
+            "color_code": "#aaf0d1"
+        },
+        {
+            "color_name": "Mahogany",
+            "color_code": "#c04000"
+        },
+        {
+            "color_name": "Majorelle Blue",
+            "color_code": "#6050dc"
+        },
+        {
+            "color_name": "Malachite",
+            "color_code": "#0bda51"
+        },
+        {
+            "color_name": "Manatee",
+            "color_code": "#979aaa"
+        },
+        {
+            "color_name": "Mandarin",
+            "color_code": "#f37a48"
+        },
+        {
+            "color_name": "Mango",
+            "color_code": "#fdbe02"
+        },
+        {
+            "color_name": "Mango Tango",
+            "color_code": "#ff8243"
+        },
+        {
+            "color_name": "Mantis",
+            "color_code": "#74c365"
+        },
+        {
+            "color_name": "Marigold",
+            "color_code": "#eaa221"
+        },
+        {
+            "color_name": "Maroon",
+            "color_code": "#b03060"
+        },
+        {
+            "color_name": "Maroon1",
+            "color_code": "#ff34b3"
+        },
+        {
+            "color_name": "Maroon2",
+            "color_code": "#ee30a7"
+        },
+        {
+            "color_name": "Maroon3",
+            "color_code": "#cd2990"
+        },
+        {
+            "color_name": "Maroon4",
+            "color_code": "#8b1c62"
+        },
+        {
+            "color_name": "Mauve",
+            "color_code": "#e0b0ff"
+        },
+        {
+            "color_name": "Mauve Taupe",
+            "color_code": "#915f6d"
+        },
+        {
+            "color_name": "Mauvelous",
+            "color_code": "#ef98aa"
+        },
+        {
+            "color_name": "Maximum Blue Green",
+            "color_code": "#30bfbf"
+        },
+        {
+            "color_name": "Maximum Blue Purple",
+            "color_code": "#acace6"
+        },
+        {
+            "color_name": "Maximum Green",
+            "color_code": "#5e8c31"
+        },
+        {
+            "color_name": "Maxmum Blue",
+            "color_code": "#47abcc"
+        },
+        {
+            "color_name": "May Green",
+            "color_code": "#4c9141"
+        },
+        {
+            "color_name": "Maya Blue",
+            "color_code": "#73c2fb"
+        },
+        {
+            "color_name": "Medium",
+            "color_code": "#66cdaa"
+        },
+        {
+            "color_name": "Medium Aquamarine",
+            "color_code": "#66ddaa"
+        },
+        {
+            "color_name": "Medium Candy Apple Red",
+            "color_code": "#e2062c"
+        },
+        {
+            "color_name": "Medium Carmine",
+            "color_code": "#af4035"
+        },
+        {
+            "color_name": "Medium Champagne",
+            "color_code": "#f3e5ab"
+        },
+        {
+            "color_name": "MediumAquamarine",
+            "color_code": "#66cdaa"
+        },
+        {
+            "color_name": "MediumBlue",
+            "color_code": "#0000cd"
+        },
+        {
+            "color_name": "MediumOrchid",
+            "color_code": "#ba55d3"
+        },
+        {
+            "color_name": "MediumOrchid1",
+            "color_code": "#e066ff"
+        },
+        {
+            "color_name": "MediumOrchid2",
+            "color_code": "#d15fee"
+        },
+        {
+            "color_name": "MediumOrchid3",
+            "color_code": "#b452cd"
+        },
+        {
+            "color_name": "MediumOrchid4",
+            "color_code": "#7a378b"
+        },
+        {
+            "color_name": "MediumPurple",
+            "color_code": "#9370db"
+        },
+        {
+            "color_name": "MediumPurple1",
+            "color_code": "#ab82ff"
+        },
+        {
+            "color_name": "MediumPurple2",
+            "color_code": "#9f79ee"
+        },
+        {
+            "color_name": "MediumPurple3",
+            "color_code": "#8968cd"
+        },
+        {
+            "color_name": "MediumPurple4",
+            "color_code": "#5d478b"
+        },
+        {
+            "color_name": "MediumSeaGreen",
+            "color_code": "#3cb371"
+        },
+        {
+            "color_name": "MediumSlateBlue",
+            "color_code": "#7b68ee"
+        },
+        {
+            "color_name": "MediumSpringGreen",
+            "color_code": "#00fa9a"
+        },
+        {
+            "color_name": "MediumTurquoise",
+            "color_code": "#48d1cc"
+        },
+        {
+            "color_name": "MediumVioletRed",
+            "color_code": "#c71585"
+        },
+        {
+            "color_name": "Mellow Apricot",
+            "color_code": "#f8b878"
+        },
+        {
+            "color_name": "Melon",
+            "color_code": "#febaad"
+        },
+        {
+            "color_name": "Metallic Gold",
+            "color_code": "#d3af37"
+        },
+        {
+            "color_name": "Metallic Seaweed",
+            "color_code": "#0a7e8c"
+        },
+        {
+            "color_name": "Metallic Sunburst",
+            "color_code": "#9c7c38"
+        },
+        {
+            "color_name": "Mexican Pink",
+            "color_code": "#e4007c"
+        },
+        {
+            "color_name": "Middle Blue",
+            "color_code": "#7ed4e6"
+        },
+        {
+            "color_name": "Middle Blue Green",
+            "color_code": "#8dd9cc"
+        },
+        {
+            "color_name": "Middle Blue Purple",
+            "color_code": "#8b72be"
+        },
+        {
+            "color_name": "Middle Green",
+            "color_code": "#4d8c57"
+        },
+        {
+            "color_name": "Middle Green Yellow",
+            "color_code": "#acbf60"
+        },
+        {
+            "color_name": "Middle Grey",
+            "color_code": "#8b8680"
+        },
+        {
+            "color_name": "Middle Purple",
+            "color_code": "#d982b5"
+        },
+        {
+            "color_name": "Middle Red",
+            "color_code": "#e58e73"
+        },
+        {
+            "color_name": "Middle Red Purple",
+            "color_code": "#a55353"
+        },
+        {
+            "color_name": "Middle Yellow",
+            "color_code": "#ffeb00"
+        },
+        {
+            "color_name": "Middle Yellow Red",
+            "color_code": "#ecb176"
+        },
+        {
+            "color_name": "Midnight Green",
+            "color_code": "#004953"
+        },
+        {
+            "color_name": "MidnightBlue",
+            "color_code": "#191970"
+        },
+        {
+            "color_name": "Mikado Yellow",
+            "color_code": "#ffc40c"
+        },
+        {
+            "color_name": "Mimi Pink",
+            "color_code": "#ffdae9"
+        },
+        {
+            "color_name": "Mindaro",
+            "color_code": "#e3f988"
+        },
+        {
+            "color_name": "Minion Yellow",
+            "color_code": "#f5e050"
+        },
+        {
+            "color_name": "Mint",
+            "color_code": "#3eb489"
+        },
+        {
+            "color_name": "Mint Green",
+            "color_code": "#98ff98"
+        },
+        {
+            "color_name": "MintCream",
+            "color_code": "#f5fffa"
+        },
+        {
+            "color_name": "Misty Moss",
+            "color_code": "#bbb477"
+        },
+        {
+            "color_name": "MistyRose1",
+            "color_code": "#ffe4e1"
+        },
+        {
+            "color_name": "MistyRose2",
+            "color_code": "#eed5d2"
+        },
+        {
+            "color_name": "MistyRose3",
+            "color_code": "#cdb7b5"
+        },
+        {
+            "color_name": "MistyRose4",
+            "color_code": "#8b7d7b"
+        },
+        {
+            "color_name": "Moccasin",
+            "color_code": "#ffe4b5"
+        },
+        {
+            "color_name": "Mode Beige",
+            "color_code": "#967117"
+        },
+        {
+            "color_name": "Moss Green",
+            "color_code": "#8a9a5b"
+        },
+        {
+            "color_name": "Mountain Meadow",
+            "color_code": "#30ba8f"
+        },
+        {
+            "color_name": "Mountbatten Pink",
+            "color_code": "#997a8d"
+        },
+        {
+            "color_name": "Mulberry",
+            "color_code": "#c54b8c"
+        },
+        {
+            "color_name": "Mustard",
+            "color_code": "#ffdb58"
+        },
+        {
+            "color_name": "Myrtle Green",
+            "color_code": "#317873"
+        },
+        {
+            "color_name": "Mystic Maroon",
+            "color_code": "#ad4379"
+        },
+        {
+            "color_name": "Nadeshiko Pink",
+            "color_code": "#f6adc6"
+        },
+        {
+            "color_name": "NavajoWhite1",
+            "color_code": "#ffdead"
+        },
+        {
+            "color_name": "NavajoWhite2",
+            "color_code": "#eecfa1"
+        },
+        {
+            "color_name": "NavajoWhite3",
+            "color_code": "#cdb38b"
+        },
+        {
+            "color_name": "NavajoWhite4",
+            "color_code": "#8b795e"
+        },
+        {
+            "color_name": "NavyBlue",
+            "color_code": "#000080"
+        },
+        {
+            "color_name": "Neon Blue",
+            "color_code": "#4666ff"
+        },
+        {
+            "color_name": "Neon Carrot",
+            "color_code": "#ffa343"
+        },
+        {
+            "color_name": "Neon Fuchsia",
+            "color_code": "#fe4164"
+        },
+        {
+            "color_name": "Neon Green",
+            "color_code": "#39ff14"
+        },
+        {
+            "color_name": "Nickel",
+            "color_code": "#727472"
+        },
+        {
+            "color_name": "Nyanza",
+            "color_code": "#e9ffdb"
+        },
+        {
+            "color_name": "Ocean Blue",
+            "color_code": "#4f42b5"
+        },
+        {
+            "color_name": "Ocean Green",
+            "color_code": "#48bf91"
+        },
+        {
+            "color_name": "Ochre",
+            "color_code": "#cc7722"
+        },
+        {
+            "color_name": "Old Burgundy",
+            "color_code": "#43302e"
+        },
+        {
+            "color_name": "Old Gold",
+            "color_code": "#cfb53b"
+        },
+        {
+            "color_name": "Old Lavender",
+            "color_code": "#796878"
+        },
+        {
+            "color_name": "Old Mauve",
+            "color_code": "#673147"
+        },
+        {
+            "color_name": "Old Rose",
+            "color_code": "#c08081"
+        },
+        {
+            "color_name": "OldLace",
+            "color_code": "#fdf5e6"
+        },
+        {
+            "color_name": "Olive",
+            "color_code": "#808000"
+        },
+        {
+            "color_name": "Olive Green",
+            "color_code": "#b5b35c"
+        },
+        {
+            "color_name": "OliveDrab",
+            "color_code": "#6b8e23"
+        },
+        {
+            "color_name": "OliveDrab1",
+            "color_code": "#c0ff3e"
+        },
+        {
+            "color_name": "OliveDrab2",
+            "color_code": "#b3ee3a"
+        },
+        {
+            "color_name": "OliveDrab4",
+            "color_code": "#698b22"
+        },
+        {
+            "color_name": "Olivine",
+            "color_code": "#9ab973"
+        },
+        {
+            "color_name": "Opal",
+            "color_code": "#a8c3bc"
+        },
+        {
+            "color_name": "Opera Maue",
+            "color_code": "#b784a7"
+        },
+        {
+            "color_name": "Orange (Crayola)",
+            "color_code": "#ff5800"
+        },
+        {
+            "color_name": "Orange Peel",
+            "color_code": "#ff9f00"
+        },
+        {
+            "color_name": "Orange Soda",
+            "color_code": "#fa5b3d"
+        },
+        {
+            "color_name": "Orange1",
+            "color_code": "#ffa500"
+        },
+        {
+            "color_name": "Orange2",
+            "color_code": "#ee9a00"
+        },
+        {
+            "color_name": "Orange3",
+            "color_code": "#cd8500"
+        },
+        {
+            "color_name": "Orange4",
+            "color_code": "#8b5a00"
+        },
+        {
+            "color_name": "OrangeRed1",
+            "color_code": "#ff4500"
+        },
+        {
+            "color_name": "OrangeRed2",
+            "color_code": "#ee4000"
+        },
+        {
+            "color_name": "OrangeRed3",
+            "color_code": "#cd3700"
+        },
+        {
+            "color_name": "OrangeRed4",
+            "color_code": "#8b2500"
+        },
+        {
+            "color_name": "Orchid",
+            "color_code": "#da70d6"
+        },
+        {
+            "color_name": "Orchid (Crayola)",
+            "color_code": "#e29cd2"
+        },
+        {
+            "color_name": "Orchid Pink",
+            "color_code": "#f2bdcd"
+        },
+        {
+            "color_name": "Orchid1",
+            "color_code": "#ff83fa"
+        },
+        {
+            "color_name": "Orchid2",
+            "color_code": "#ee7ae9"
+        },
+        {
+            "color_name": "Orchid3",
+            "color_code": "#cd69c9"
+        },
+        {
+            "color_name": "Orchid4",
+            "color_code": "#8b4789"
+        },
+        {
+            "color_name": "Outrageous Orange",
+            "color_code": "#ff6e4a"
+        },
+        {
+            "color_name": "Oxblood",
+            "color_code": "#4a0000"
+        },
+        {
+            "color_name": "Oxford Blue",
+            "color_code": "#002147"
+        },
+        {
+            "color_name": "Pacific Blue",
+            "color_code": "#1ca9c9"
+        },
+        {
+            "color_name": "Palatinate Purple",
+            "color_code": "#682860"
+        },
+        {
+            "color_name": "Pale",
+            "color_code": "#db7093"
+        },
+        {
+            "color_name": "Pale Aqua",
+            "color_code": "#bcd4e6"
+        },
+        {
+            "color_name": "Pale Cerulean",
+            "color_code": "#9bc4e2"
+        },
+        {
+            "color_name": "Pale Pink",
+            "color_code": "#fadadd"
+        },
+        {
+            "color_name": "Pale Silver",
+            "color_code": "#c9c0bb"
+        },
+        {
+            "color_name": "Pale Spring Bud",
+            "color_code": "#ecebbd"
+        },
+        {
+            "color_name": "PaleGoldenrod",
+            "color_code": "#eee8aa"
+        },
+        {
+            "color_name": "PaleGreen",
+            "color_code": "#98fb98"
+        },
+        {
+            "color_name": "PaleGreen1",
+            "color_code": "#9aff9a"
+        },
+        {
+            "color_name": "PaleGreen2",
+            "color_code": "#90ee90"
+        },
+        {
+            "color_name": "PaleGreen3",
+            "color_code": "#7ccd7c"
+        },
+        {
+            "color_name": "PaleGreen4",
+            "color_code": "#548b54"
+        },
+        {
+            "color_name": "PaleTurquoise",
+            "color_code": "#afeeee"
+        },
+        {
+            "color_name": "PaleTurquoise1",
+            "color_code": "#bbffff"
+        },
+        {
+            "color_name": "PaleTurquoise2",
+            "color_code": "#aeeeee"
+        },
+        {
+            "color_name": "PaleTurquoise3",
+            "color_code": "#96cdcd"
+        },
+        {
+            "color_name": "PaleTurquoise4",
+            "color_code": "#668b8b"
+        },
+        {
+            "color_name": "PaleVioletRed",
+            "color_code": "#db7093"
+        },
+        {
+            "color_name": "PaleVioletRed1",
+            "color_code": "#ff82ab"
+        },
+        {
+            "color_name": "PaleVioletRed2",
+            "color_code": "#ee799f"
+        },
+        {
+            "color_name": "PaleVioletRed3",
+            "color_code": "#cd6889"
+        },
+        {
+            "color_name": "PaleVioletRed4",
+            "color_code": "#8b475d"
+        },
+        {
+            "color_name": "Pansy Purple",
+            "color_code": "#78184a"
+        },
+        {
+            "color_name": "PapayaWhip",
+            "color_code": "#ffefd5"
+        },
+        {
+            "color_name": "Paradise Pink",
+            "color_code": "#e63e62"
+        },
+        {
+            "color_name": "Pastel Pink",
+            "color_code": "#dea5a4"
+        },
+        {
+            "color_name": "Patriarch (Purple)",
+            "color_code": "#800080"
+        },
+        {
+            "color_name": "Peach",
+            "color_code": "#ffe5b4"
+        },
+        {
+            "color_name": "PeachPuff1",
+            "color_code": "#ffdab9"
+        },
+        {
+            "color_name": "PeachPuff2",
+            "color_code": "#eecbad"
+        },
+        {
+            "color_name": "PeachPuff3",
+            "color_code": "#cdaf95"
+        },
+        {
+            "color_name": "PeachPuff4",
+            "color_code": "#8b7765"
+        },
+        {
+            "color_name": "Pear",
+            "color_code": "#d1e231"
+        },
+        {
+            "color_name": "Pearly Purple",
+            "color_code": "#b768a2"
+        },
+        {
+            "color_name": "Persian Blue",
+            "color_code": "#1c39bb"
+        },
+        {
+            "color_name": "Persian Green",
+            "color_code": "#00a693"
+        },
+        {
+            "color_name": "Persian Indigo",
+            "color_code": "#32127a"
+        },
+        {
+            "color_name": "Persian Orange",
+            "color_code": "#d99058"
+        },
+        {
+            "color_name": "Persian Pink",
+            "color_code": "#f77fbe"
+        },
+        {
+            "color_name": "Persian Plum",
+            "color_code": "#701c1c"
+        },
+        {
+            "color_name": "Persian Red",
+            "color_code": "#cc3333"
+        },
+        {
+            "color_name": "Persian Rose",
+            "color_code": "#fe28a2"
+        },
+        {
+            "color_name": "Pewter Blue",
+            "color_code": "#8ba8b7"
+        },
+        {
+            "color_name": "Phthalo Blue",
+            "color_code": "#000f89"
+        },
+        {
+            "color_name": "Phthalo Green",
+            "color_code": "#123524"
+        },
+        {
+            "color_name": "Pictorial Carmine",
+            "color_code": "#c30b4e"
+        },
+        {
+            "color_name": "Piggy Pink",
+            "color_code": "#fddde6"
+        },
+        {
+            "color_name": "Pine Green",
+            "color_code": "#01796f"
+        },
+        {
+            "color_name": "Pine Tree",
+            "color_code": "#2a2f23"
+        },
+        {
+            "color_name": "Pink",
+            "color_code": "#ffc0cb"
+        },
+        {
+            "color_name": "Pink (Pantone)",
+            "color_code": "#d74894"
+        },
+        {
+            "color_name": "Pink Flamingo",
+            "color_code": "#fc74fd"
+        },
+        {
+            "color_name": "Pink Sherbet",
+            "color_code": "#f78fa7"
+        },
+        {
+            "color_name": "Pink1",
+            "color_code": "#ffb5c5"
+        },
+        {
+            "color_name": "Pink2",
+            "color_code": "#eea9b8"
+        },
+        {
+            "color_name": "Pink3",
+            "color_code": "#cd919e"
+        },
+        {
+            "color_name": "Pink4",
+            "color_code": "#8b636c"
+        },
+        {
+            "color_name": "Pistachio",
+            "color_code": "#93c572"
+        },
+        {
+            "color_name": "Platinum",
+            "color_code": "#e5e4e2"
+        },
+        {
+            "color_name": "Plum",
+            "color_code": "#8e4585"
+        },
+        {
+            "color_name": "Plum1",
+            "color_code": "#ffbbff"
+        },
+        {
+            "color_name": "Plum2",
+            "color_code": "#eeaeee"
+        },
+        {
+            "color_name": "Plum3",
+            "color_code": "#cd96cd"
+        },
+        {
+            "color_name": "Plum4",
+            "color_code": "#8b668b"
+        },
+        {
+            "color_name": "Plump Purple",
+            "color_code": "#5946b2"
+        },
+        {
+            "color_name": "Portland Orange",
+            "color_code": "#ff5a36"
+        },
+        {
+            "color_name": "PowderBlue",
+            "color_code": "#b0e0e6"
+        },
+        {
+            "color_name": "Prussian Blue",
+            "color_code": "#003153"
+        },
+        {
+            "color_name": "Puce",
+            "color_code": "#cc8899"
+        },
+        {
+            "color_name": "Pumpkin",
+            "color_code": "#ff7518"
+        },
+        {
+            "color_name": "Purple",
+            "color_code": "#a020f0"
+        },
+        {
+            "color_name": "Purple1",
+            "color_code": "#9b30ff"
+        },
+        {
+            "color_name": "Purple2",
+            "color_code": "#912cee"
+        },
+        {
+            "color_name": "Purple3",
+            "color_code": "#7d26cd"
+        },
+        {
+            "color_name": "Purple4",
+            "color_code": "#551a8b"
+        },
+        {
+            "color_name": "Quinacridone Magenta",
+            "color_code": "#8e3a59"
+        },
+        {
+            "color_name": "Radical Red",
+            "color_code": "#ff355e"
+        },
+        {
+            "color_name": "Raspberry",
+            "color_code": "#e30b5d"
+        },
+        {
+            "color_name": "Razzmatazz",
+            "color_code": "#e3256b"
+        },
+        {
+            "color_name": "Rebeccapurple",
+            "color_code": "#663399"
+        },
+        {
+            "color_name": "Red Orange",
+            "color_code": "#ff5349"
+        },
+        {
+            "color_name": "Red1",
+            "color_code": "#ff0000"
+        },
+        {
+            "color_name": "Red2",
+            "color_code": "#ee0000"
+        },
+        {
+            "color_name": "Red3",
+            "color_code": "#cd0000"
+        },
+        {
+            "color_name": "Red4",
+            "color_code": "#8b0000"
+        },
+        {
+            "color_name": "Redwood",
+            "color_code": "#a45a52"
+        },
+        {
+            "color_name": "Rifle Green",
+            "color_code": "#444c38"
+        },
+        {
+            "color_name": "Rocket Metallic",
+            "color_code": "#8a7f80"
+        },
+        {
+            "color_name": "Rose",
+            "color_code": "#ff007f"
+        },
+        {
+            "color_name": "Rose Bonbon",
+            "color_code": "#f9429e"
+        },
+        {
+            "color_name": "Rose Dust",
+            "color_code": "#9e5e6f"
+        },
+        {
+            "color_name": "Rose Pink",
+            "color_code": "#ff66cc"
+        },
+        {
+            "color_name": "Rose Taupe",
+            "color_code": "#905d5d"
+        },
+        {
+            "color_name": "Rosewood",
+            "color_code": "#65000b"
+        },
+        {
+            "color_name": "RosyBrown",
+            "color_code": "#bc8f8f"
+        },
+        {
+            "color_name": "RosyBrown1",
+            "color_code": "#ffc1c1"
+        },
+        {
+            "color_name": "RosyBrown2",
+            "color_code": "#eeb4b4"
+        },
+        {
+            "color_name": "RosyBrown3",
+            "color_code": "#cd9b9b"
+        },
+        {
+            "color_name": "RosyBrown4",
+            "color_code": "#8b6969"
+        },
+        {
+            "color_name": "RoyalBlue",
+            "color_code": "#4169e1"
+        },
+        {
+            "color_name": "RoyalBlue1",
+            "color_code": "#4876ff"
+        },
+        {
+            "color_name": "RoyalBlue2",
+            "color_code": "#436eee"
+        },
+        {
+            "color_name": "RoyalBlue3",
+            "color_code": "#3a5fcd"
+        },
+        {
+            "color_name": "RoyalBlue4",
+            "color_code": "#27408b"
+        },
+        {
+            "color_name": "Ruby",
+            "color_code": "#e0115f"
+        },
+        {
+            "color_name": "Russet",
+            "color_code": "#80461b"
+        },
+        {
+            "color_name": "Russian Green",
+            "color_code": "#679267"
+        },
+        {
+            "color_name": "Russian Violet",
+            "color_code": "#32174d"
+        },
+        {
+            "color_name": "Rust",
+            "color_code": "#b7410e"
+        },
+        {
+            "color_name": "SaddleBrown",
+            "color_code": "#8b4513"
+        },
+        {
+            "color_name": "Saffron",
+            "color_code": "#f4c430"
+        },
+        {
+            "color_name": "Sage",
+            "color_code": "#bcb88a"
+        },
+        {
+            "color_name": "Salmon",
+            "color_code": "#fa8072"
+        },
+        {
+            "color_name": "Salmon1",
+            "color_code": "#ff8c69"
+        },
+        {
+            "color_name": "Salmon2",
+            "color_code": "#ee8262"
+        },
+        {
+            "color_name": "Salmon3",
+            "color_code": "#cd7054"
+        },
+        {
+            "color_name": "Salmon4",
+            "color_code": "#8b4c39"
+        },
+        {
+            "color_name": "SandyBrown",
+            "color_code": "#f4a460"
+        },
+        {
+            "color_name": "Sap Green",
+            "color_code": "#507d2a"
+        },
+        {
+            "color_name": "Sapphire",
+            "color_code": "#0f52ba"
+        },
+        {
+            "color_name": "Scarlet",
+            "color_code": "#ff2400"
+        },
+        {
+            "color_name": "School Bus Yellow",
+            "color_code": "#ffd800"
+        },
+        {
+            "color_name": "SeaGreen1",
+            "color_code": "#54ff9f"
+        },
+        {
+            "color_name": "SeaGreen2",
+            "color_code": "#4eee94"
+        },
+        {
+            "color_name": "SeaGreen3",
+            "color_code": "#43cd80"
+        },
+        {
+            "color_name": "SeaGreen4",
+            "color_code": "#2e8b57"
+        },
+        {
+            "color_name": "Seal Brown",
+            "color_code": "#59260b"
+        },
+        {
+            "color_name": "Seashell1",
+            "color_code": "#fff5ee"
+        },
+        {
+            "color_name": "Seashell2",
+            "color_code": "#eee5de"
+        },
+        {
+            "color_name": "Seashell3",
+            "color_code": "#cdc5bf"
+        },
+        {
+            "color_name": "Seashell4",
+            "color_code": "#8b8682"
+        },
+        {
+            "color_name": "Selective Yellow",
+            "color_code": "#ffba00"
+        },
+        {
+            "color_name": "Sepia",
+            "color_code": "#704214"
+        },
+        {
+            "color_name": "Shamrock Green",
+            "color_code": "#009e60"
+        },
+        {
+            "color_name": "Shocking Pink",
+            "color_code": "#fc0fc0"
+        },
+        {
+            "color_name": "Sienna",
+            "color_code": "#a0522d"
+        },
+        {
+            "color_name": "Sienna1",
+            "color_code": "#ff8247"
+        },
+        {
+            "color_name": "Sienna2",
+            "color_code": "#ee7942"
+        },
+        {
+            "color_name": "Sienna3",
+            "color_code": "#cd6839"
+        },
+        {
+            "color_name": "Sienna4",
+            "color_code": "#8b4726"
+        },
+        {
+            "color_name": "Silver",
+            "color_code": "#c0c0c0"
+        },
+        {
+            "color_name": "Silver Pink",
+            "color_code": "#c4aead"
+        },
+        {
+            "color_name": "Sinopia",
+            "color_code": "#cb410b"
+        },
+        {
+            "color_name": "Skobeloff",
+            "color_code": "#007474"
+        },
+        {
+            "color_name": "SkyBlue",
+            "color_code": "#87ceeb"
+        },
+        {
+            "color_name": "SkyBlue1",
+            "color_code": "#87ceff"
+        },
+        {
+            "color_name": "SkyBlue2",
+            "color_code": "#7ec0ee"
+        },
+        {
+            "color_name": "SkyBlue3",
+            "color_code": "#6ca6cd"
+        },
+        {
+            "color_name": "SkyBlue4",
+            "color_code": "#4a708b"
+        },
+        {
+            "color_name": "SlateBlue",
+            "color_code": "#6a5acd"
+        },
+        {
+            "color_name": "SlateBlue1",
+            "color_code": "#836fff"
+        },
+        {
+            "color_name": "SlateBlue2",
+            "color_code": "#7a67ee"
+        },
+        {
+            "color_name": "SlateBlue3",
+            "color_code": "#6959cd"
+        },
+        {
+            "color_name": "SlateBlue4",
+            "color_code": "#473c8b"
+        },
+        {
+            "color_name": "SlateGray",
+            "color_code": "#708090"
+        },
+        {
+            "color_name": "SlateGray1",
+            "color_code": "#c6e2ff"
+        },
+        {
+            "color_name": "SlateGray2",
+            "color_code": "#b9d3ee"
+        },
+        {
+            "color_name": "SlateGray3",
+            "color_code": "#9fb6cd"
+        },
+        {
+            "color_name": "SlateGray4",
+            "color_code": "#6c7b8b"
+        },
+        {
+            "color_name": "Smoky Black",
+            "color_code": "#100c08"
+        },
+        {
+            "color_name": "Snow1",
+            "color_code": "#fffafa"
+        },
+        {
+            "color_name": "Snow2",
+            "color_code": "#eee9e9"
+        },
+        {
+            "color_name": "Snow3",
+            "color_code": "#cdc9c9"
+        },
+        {
+            "color_name": "Snow4",
+            "color_code": "#8b8989"
+        },
+        {
+            "color_name": "Spanish Bistre",
+            "color_code": "#807532"
+        },
+        {
+            "color_name": "Spanish Orange",
+            "color_code": "#e86100"
+        },
+        {
+            "color_name": "Spanish Pink",
+            "color_code": "#f7bfbe"
+        },
+        {
+            "color_name": "Spanish Viridian",
+            "color_code": "#007f5c"
+        },
+        {
+            "color_name": "Spring Bud",
+            "color_code": "#a7fc00"
+        },
+        {
+            "color_name": "Spring Frost",
+            "color_code": "#87ff2a"
+        },
+        {
+            "color_name": "SpringGreen1",
+            "color_code": "#00ff7f"
+        },
+        {
+            "color_name": "SpringGreen2",
+            "color_code": "#00ee76"
+        },
+        {
+            "color_name": "SpringGreen3",
+            "color_code": "#00cd66"
+        },
+        {
+            "color_name": "SpringGreen4",
+            "color_code": "#008b45"
+        },
+        {
+            "color_name": "Steel Pink",
+            "color_code": "#cc33cc"
+        },
+        {
+            "color_name": "SteelBlue",
+            "color_code": "#4682b4"
+        },
+        {
+            "color_name": "SteelBlue1",
+            "color_code": "#63b8ff"
+        },
+        {
+            "color_name": "SteelBlue2",
+            "color_code": "#5cacee"
+        },
+        {
+            "color_name": "SteelBlue3",
+            "color_code": "#4f94cd"
+        },
+        {
+            "color_name": "SteelBlue4",
+            "color_code": "#36648b"
+        },
+        {
+            "color_name": "Straw",
+            "color_code": "#e4d96f"
+        },
+        {
+            "color_name": "Sunglow",
+            "color_code": "#ffcc33"
+        },
+        {
+            "color_name": "Super Pink",
+            "color_code": "#cf6ba9"
+        },
+        {
+            "color_name": "Sweet Brown",
+            "color_code": "#a83731"
+        },
+        {
+            "color_name": "Tan",
+            "color_code": "#d2b48c"
+        },
+        {
+            "color_name": "Tan1",
+            "color_code": "#ffa54f"
+        },
+        {
+            "color_name": "Tan2",
+            "color_code": "#ee9a49"
+        },
+        {
+            "color_name": "Tan3",
+            "color_code": "#cd853f"
+        },
+        {
+            "color_name": "Tan4",
+            "color_code": "#8b5a2b"
+        },
+        {
+            "color_name": "Tangerine",
+            "color_code": "#f28500"
+        },
+        {
+            "color_name": "Tart Orange",
+            "color_code": "#fb4d46"
+        },
+        {
+            "color_name": "Taupe",
+            "color_code": "#483c32"
+        },
+        {
+            "color_name": "Taupe Gray",
+            "color_code": "#8b8589"
+        },
+        {
+            "color_name": "Tea Green",
+            "color_code": "#d0f0c0"
+        },
+        {
+            "color_name": "Teal",
+            "color_code": "#008080"
+        },
+        {
+            "color_name": "Teal Blue",
+            "color_code": "#367588"
+        },
+        {
+            "color_name": "Terra Cotta",
+            "color_code": "#e2725b"
+        },
+        {
+            "color_name": "Thistle",
+            "color_code": "#d8bfd8"
+        },
+        {
+            "color_name": "Thistle1",
+            "color_code": "#ffe1ff"
+        },
+        {
+            "color_name": "Thistle2",
+            "color_code": "#eed2ee"
+        },
+        {
+            "color_name": "Thistle3",
+            "color_code": "#cdb5cd"
+        },
+        {
+            "color_name": "Thistle4",
+            "color_code": "#8b7b8b"
+        },
+        {
+            "color_name": "Tiffany Blue",
+            "color_code": "#0abab5"
+        },
+        {
+            "color_name": "Timberwolf",
+            "color_code": "#dbd7d2"
+        },
+        {
+            "color_name": "Titanium Yellow",
+            "color_code": "#eee600"
+        },
+        {
+            "color_name": "Tomato1",
+            "color_code": "#ff6347"
+        },
+        {
+            "color_name": "Tomato2",
+            "color_code": "#ee5c42"
+        },
+        {
+            "color_name": "Tomato3",
+            "color_code": "#cd4f39"
+        },
+        {
+            "color_name": "Tomato4",
+            "color_code": "#8b3626"
+        },
+        {
+            "color_name": "Tropical Rainforest",
+            "color_code": "#00755e"
+        },
+        {
+            "color_name": "Tumbleweed",
+            "color_code": "#deaa88"
+        },
+        {
+            "color_name": "Turquoise",
+            "color_code": "#40e0d0"
+        },
+        {
+            "color_name": "Turquoise Blue",
+            "color_code": "#00ffef"
+        },
+        {
+            "color_name": "Turquoise1",
+            "color_code": "#00f5ff"
+        },
+        {
+            "color_name": "Turquoise2",
+            "color_code": "#00e5ee"
+        },
+        {
+            "color_name": "Turquoise3",
+            "color_code": "#00c5cd"
+        },
+        {
+            "color_name": "Turquoise4",
+            "color_code": "#00868b"
+        },
+        {
+            "color_name": "Tuscan Red",
+            "color_code": "#7c4848"
+        },
+        {
+            "color_name": "Tuscany",
+            "color_code": "#c09999"
+        },
+        {
+            "color_name": "Twilight Lavender",
+            "color_code": "#8a496b"
+        },
+        {
+            "color_name": "Tyrian Purple",
+            "color_code": "#66023c"
+        },
+        {
+            "color_name": "UP Forest Green",
+            "color_code": "#014421"
+        },
+        {
+            "color_name": "UP Maroon",
+            "color_code": "#7b1113"
+        },
+        {
+            "color_name": "Ultra Pink",
+            "color_code": "#ff6fff"
+        },
+        {
+            "color_name": "Ultramarine",
+            "color_code": "#3f00ff"
+        },
+        {
+            "color_name": "Ultramarine Blue",
+            "color_code": "#4166f5"
+        },
+        {
+            "color_name": "Unbleached Silk",
+            "color_code": "#ffddca"
+        },
+        {
+            "color_name": "United Nations Blue",
+            "color_code": "#5b92e5"
+        },
+        {
+            "color_name": "Upsdell Red",
+            "color_code": "#ae2029"
+        },
+        {
+            "color_name": "Van Dyke Brown",
+            "color_code": "#664228"
+        },
+        {
+            "color_name": "Vanilla",
+            "color_code": "#f3e5ab"
+        },
+        {
+            "color_name": "Vanilla Ice",
+            "color_code": "#f38fa9"
+        },
+        {
+            "color_name": "Vegas Gold",
+            "color_code": "#c5b358"
+        },
+        {
+            "color_name": "Venetian Red",
+            "color_code": "#c80815"
+        },
+        {
+            "color_name": "Verdigris",
+            "color_code": "#43b3ae"
+        },
+        {
+            "color_name": "Vermillion",
+            "color_code": "#e34234"
+        },
+        {
+            "color_name": "Violet",
+            "color_code": "#ee82ee"
+        },
+        {
+            "color_name": "VioletRed",
+            "color_code": "#d02090"
+        },
+        {
+            "color_name": "VioletRed1",
+            "color_code": "#ff3e96"
+        },
+        {
+            "color_name": "VioletRed2",
+            "color_code": "#ee3a8c"
+        },
+        {
+            "color_name": "VioletRed3",
+            "color_code": "#cd3278"
+        },
+        {
+            "color_name": "VioletRed4",
+            "color_code": "#8b2252"
+        },
+        {
+            "color_name": "Viridian",
+            "color_code": "#40826d"
+        },
+        {
+            "color_name": "Viridian Green",
+            "color_code": "#009698"
+        },
+        {
+            "color_name": "Vivid Burgundy",
+            "color_code": "#9f1d35"
+        },
+        {
+            "color_name": "Vivid Sky Blue",
+            "color_code": "#00ccff"
+        },
+        {
+            "color_name": "Vivid Tangerine",
+            "color_code": "#ffa089"
+        },
+        {
+            "color_name": "Vivid Violet",
+            "color_code": "#9f00ff"
+        },
+        {
+            "color_name": "Volt",
+            "color_code": "#ceff00"
+        },
+        {
+            "color_name": "Warm Black",
+            "color_code": "#004242"
+        },
+        {
+            "color_name": "Wheat",
+            "color_code": "#f5deb3"
+        },
+        {
+            "color_name": "Wheat1",
+            "color_code": "#ffe7ba"
+        },
+        {
+            "color_name": "Wheat2",
+            "color_code": "#eed8ae"
+        },
+        {
+            "color_name": "Wheat3",
+            "color_code": "#cdba96"
+        },
+        {
+            "color_name": "Wheat4",
+            "color_code": "#8b7e66"
+        },
+        {
+            "color_name": "White",
+            "color_code": "#ffffff"
+        },
+        {
+            "color_name": "WhiteSmoke",
+            "color_code": "#f5f5f5"
+        },
+        {
+            "color_name": "Wild Blue Yonder",
+            "color_code": "#a2add0"
+        },
+        {
+            "color_name": "Wild Orchid",
+            "color_code": "#d470a2"
+        },
+        {
+            "color_name": "Wild Strawberry",
+            "color_code": "#ff43a4"
+        },
+        {
+            "color_name": "Windsor Tan",
+            "color_code": "#a75502"
+        },
+        {
+            "color_name": "Wine",
+            "color_code": "#722f37"
+        },
+        {
+            "color_name": "Wintergreen Dream",
+            "color_code": "#56887d"
+        },
+        {
+            "color_name": "Wisteria",
+            "color_code": "#c9a0dc"
+        },
+        {
+            "color_name": "Xanadu",
+            "color_code": "#738678"
+        },
+        {
+            "color_name": "Yellow Orange",
+            "color_code": "#ffae42"
+        },
+        {
+            "color_name": "Yellow Pantone",
+            "color_code": "#fedf00"
+        },
+        {
+            "color_name": "Yellow1",
+            "color_code": "#ffff00"
+        },
+        {
+            "color_name": "Yellow2",
+            "color_code": "#eeee00"
+        },
+        {
+            "color_name": "Yellow3",
+            "color_code": "#cdcd00"
+        },
+        {
+            "color_name": "Yellow4",
+            "color_code": "#8b8b00"
+        },
+        {
+            "color_name": "YellowGreen",
+            "color_code": "#9acd32"
+        },
+        {
+            "color_name": "Zaffre",
+            "color_code": "#0014a8"
+        },
+        {
+            "color_name": "Zomp",
+            "color_code": "#39a78e"
+        }
+    ]
+}
